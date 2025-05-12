@@ -163,6 +163,42 @@
     <div class="section">
         <h2>11. Modificaciones</h2>
         <p>Podemos actualizar esta política ocasionalmente. La versión más reciente estará disponible en nuestra App.</p>
+
+
+
+
+# Estándares contra la Explotación y el Abuso Sexual Infantil (CSAE)
+
+## Compromiso de nuestra aplicación
+
+En Amorify Date, estamos firmemente comprometidos con la protección de menores y la prevención de cualquier forma de explotación o abuso sexual infantil. Nuestra app cumple con las leyes aplicables y sigue las mejores prácticas de la industria para identificar, reportar y eliminar contenido que involucre CSAE.
+
+## Medidas implementadas
+
+### 1. Prohibición de contenido CSAE
+No se permite subir, compartir, distribuir o promover contenido que implique o explote sexualmente a menores en nuestra plataforma. Cualquier usuario que intente hacerlo será inmediatamente bloqueado y denunciado.
+
+### 2. Moderación activa
+Implementamos mecanismos de moderación manual y/o automática para detectar contenido inapropiado, incluyendo imágenes, textos o enlaces que infrinjan nuestras políticas.
+
+### 3. Reporte de contenido
+Los usuarios pueden reportar contenido sospechoso o perjudicial. Nuestro equipo actúa de inmediato para revisar y eliminar dicho contenido, y tomar las acciones pertinentes.
+
+### 4. Colaboración con autoridades
+Colaboramos con las autoridades y organizaciones pertinentes (como NCMEC o INHOPE) en caso de detectar material CSAE. Reportamos dichos casos conforme a la legislación local e internacional.
+
+### 5. Control de acceso
+En caso de que la app tenga funciones de comunicación, se implementan medidas de control de edad, monitoreo y prevención de contacto inapropiado entre adultos y menores.
+
+### 6. Formación del equipo
+Nuestro personal está formado en la identificación y manejo adecuado de contenido CSAE, así como en protocolos de reporte y acción inmediata.
+
+## Contacto
+
+Si detectas contenido sospechoso en nuestra aplicación, por favor repórtalo de inmediato a:
+
+**Email:** almeyda.dw.studio@gmail.com  
+
     </div>
 
     <p><strong>Última actualización:</strong> 3 de marzo de 2025</p>
