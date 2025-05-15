@@ -164,7 +164,8 @@
         <h2>11. Modificaciones</h2>
         <p>Podemos actualizar esta política ocasionalmente. La versión más reciente estará disponible en nuestra App.</p>
 
-
+Si desea borrar su cuenta
+mande un correo a almeyda.dw.studio@gmail.com donde agrega porque quiere eliminar sus datos de la cuenta, aunque siguiendo los pasos dentro de la aplicacion usted puede eliminar los datos de su cuenta eliminando la cuenta directamente.
 
 
 # Estándares contra la Explotación y el Abuso Sexual Infantil (CSAE)
